@@ -32,5 +32,5 @@ More about my work experience on [hh.ru](https://hh.ru/applicant/resumes/view?re
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yulia-alexeychuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yulia-alexeychuk&repo=yandex_practicum)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yulia-alexeychuk&layout=compact)](https://github.com/yulia-alexeychuk/yandex_practicum)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yulia-alexeychuk&repo=yandex_practicum)](https://github.com/yulia-alexeychuk/yandex_practicum)
