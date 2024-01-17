@@ -10,7 +10,7 @@
 - analysis of Retention Rate, Churn Rate, Conversion Rate, LTV, CAC and ROI;
 - A/B-test analysis.
 
-More about my work experience on [hh.ru](https://hh.ru/applicant/resumes/view?resume=0d5763c8ff0c367a6f0039ed1f754350327358)
+More about my work experience on [hh.ru](https://hh.ru/resume/0d5763c8ff0c367a6f0039ed1f754350327358)
 
 
 **Connect with me**:
