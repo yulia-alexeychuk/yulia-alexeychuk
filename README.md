@@ -2,7 +2,13 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Data Analyst student from Russia 🇷🇺</h3>
 
-🌱 I’m currently studying at Yandex Practicum
+🌱 I’m currently studying at Yandex Practicum, where I am learning:
+
+- Python, in particular: libraries Pandas, Matplotlib, NumPy, SciPy;
+- RDBMS PostgreSQL;
+- statistical data analysis: combinatorics, теория вероятностей, проверка гипотез с помощью статистических тестов;
+- analysis of Retention Rate, Churn Rate, Conversion Rate, LTV, CAC и ROI;
+- научилась анализировать данные A/B-тестов и применять статистический анализ к их результатам.
 
 **Connect with me**:
 
