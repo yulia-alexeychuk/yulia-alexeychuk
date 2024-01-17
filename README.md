@@ -6,14 +6,17 @@
 
 - Python, in particular: libraries Pandas, Matplotlib, NumPy, SciPy;
 - RDBMS PostgreSQL;
-- statistical data analysis: combinatorics, теория вероятностей, проверка гипотез с помощью статистических тестов;
-- analysis of Retention Rate, Churn Rate, Conversion Rate, LTV, CAC и ROI;
-- научилась анализировать данные A/B-тестов и применять статистический анализ к их результатам.
+- statistical data analysis: combinatorics, probability theory, hypotheses statistical test;
+- analysis of Retention Rate, Churn Rate, Conversion Rate, LTV, CAC and ROI;
+- A/B-test analysis.
+
+More about my work experience on [hh.ru](https://hh.ru/applicant/resumes/view?resume=0d5763c8ff0c367a6f0039ed1f754350327358)
+
 
 **Connect with me**:
 
-<a href="https://www.linkedin.com/in/yulia-alexeychuk-108963230/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 <a href="t.me/yalexeychuk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt=""></a>
+<a href="https://www.linkedin.com/in/yulia-alexeychuk-108963230/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 
 **Languages and Tools**:
 
@@ -30,5 +33,4 @@
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yulia-alexeychuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yulia-alexeychuk&repo=yandex_practicum)](https://github.com/anuraghazra/github-readme-stats)
