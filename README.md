@@ -34,3 +34,8 @@ More about my work experience on [hh.ru](https://hh.ru/applicant/resumes/view?re
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yulia-alexeychuk&layout=compact)](https://github.com/yulia-alexeychuk/yandex_practicum)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yulia-alexeychuk&repo=yandex_practicum)](https://github.com/yulia-alexeychuk/yandex_practicum)
+
+| № |	Наименование проекта	| Описание	| Навыки и инструменты | 
+| - | --- | --- | --- | 
+| 1 | [Определение факторов успешности компьютерных игр](https://github.com/yulia-alexeychuk/projects/tree/main/project_games_success) | Изучение закономерностей, определяющих успешность игр на основе исторических данных о продажах игр из открытых источников. | pandas, matplotlib, scipy, numpy, критерий Стьюдента | 
+| 2 | [Приоритизация гипотез и анализ A/B-теста](https://github.com/yulia-alexeychuk/projects/tree/main/project_business) | В первой части проведена приоритизация гипотез по фреймворкам ICE и RICE. Во второй части проведен анализ результатов A/B-теста. | pandas, matplotlib, scipy, numpy, критерий Шапиро-Уилка, критерий Манна-Уитни, A/B-тест, RICE, ICE | 
