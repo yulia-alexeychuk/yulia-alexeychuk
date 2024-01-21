@@ -15,7 +15,7 @@ More about my work experience on [hh.ru](https://hh.ru/resume/0d5763c8ff0c367a6f
 
 **Connect with me**:
 
-<a href="t.me/yalexeychuk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt=""></a>
+<a href="https://t.me/yalexeychuk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt=""></a>
 <a href="https://www.linkedin.com/in/yulia-alexeychuk-108963230/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 
 **Languages and Tools**:
