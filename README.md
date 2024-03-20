@@ -17,6 +17,8 @@ More about my work experience on [hh.ru](https://hh.ru/resume/0d5763c8ff0c367a6f
 
 <a href="https://t.me/yalexeychuk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt=""></a>
 <a href="https://www.linkedin.com/in/yulia-alexeychuk-108963230/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+<a href="https://leetcode.com/yulia-alexeychuk/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt=""></a>
+
 
 **Languages and Tools**:
 
@@ -25,6 +27,7 @@ More about my work experience on [hh.ru](https://hh.ru/resume/0d5763c8ff0c367a6f
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Seaborn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpypi.org%2Fproject%2Fseaborn%2F&psig=AOvVaw0cNTsJWh_jDUmYUAQV_Z7L&ust=1711016824623000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjepcLQgoUDFQAAAAAdAAAAABAE)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
