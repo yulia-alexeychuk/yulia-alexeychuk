@@ -10,6 +10,10 @@
 - analysis of Retention Rate, Churn Rate, Conversion Rate, LTV, CAC and ROI;
 - A/B-test analysis.
 
+**Practising my skills here**
+  
+<a href="https://leetcode.com/yulia-alexeychuk/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt=""></a>
+
 More about my work experience on [hh.ru](https://hh.ru/resume/0d5763c8ff0c367a6f0039ed1f754350327358)
 
 
@@ -17,7 +21,7 @@ More about my work experience on [hh.ru](https://hh.ru/resume/0d5763c8ff0c367a6f
 
 <a href="https://t.me/yalexeychuk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt=""></a>
 <a href="https://www.linkedin.com/in/yulia-alexeychuk-108963230/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
-<a href="https://leetcode.com/yulia-alexeychuk/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt=""></a>
+
 
 
 **Languages and Tools**:
