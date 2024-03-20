@@ -10,7 +10,7 @@
 - analysis of Retention Rate, Churn Rate, Conversion Rate, LTV, CAC and ROI;
 - A/B-test analysis.
 
-**Practising my skills here**
+**Practising my skills here:**
   
 <a href="https://leetcode.com/yulia-alexeychuk/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt=""></a>
 
