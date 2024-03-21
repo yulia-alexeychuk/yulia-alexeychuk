@@ -14,7 +14,7 @@
   
 <a href="https://leetcode.com/yulia-alexeychuk/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt=""></a>
 
-More about my work experience on [hh.ru](https://hh.ru/resume/0d5763c8ff0c367a6f0039ed1f754350327358)
+More about my work experience on <a href="https://hh.ru/resume/0d5763c8ff0c367a6f0039ed1f754350327358"><img src="https://toplogos.ru/images/logo-hh-ru.png" height="29"></a>
 
 
 **Connect with me**:
