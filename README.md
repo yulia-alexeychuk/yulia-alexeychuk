@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Yulia Alexeychuk</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Data Analyst student from Russia 🇷🇺</h3>
+<h3 align="center">Data Analyst from Russia 🇷🇺</h3>
 
-🌱 I’m currently studying at Yandex Practicum, where I am learning:
-
-- Python, in particular: libraries Pandas, Matplotlib, NumPy, SciPy;
-- RDBMS PostgreSQL;
-- statistical data analysis: combinatorics, probability theory, hypotheses statistical test;
-- analysis of Retention Rate, Churn Rate, Conversion Rate, LTV, CAC and ROI;
-- A/B-test analysis.
+- I have completed Data Analyst course from Yandex Practicum, where I learned how:
+  - carry out data analysis using Python, in particular: libraries Pandas, Matplotlib, Seaborn, Plotly, NumPy, SciPy;
+  - write SQL queries (PostgreSQL);
+  - apply hypotheses statistical tests;
+  - calculate and analyse Retention Rate, Churn Rate, Conversion Rate, LTV, CAC and ROI;
+  - analyse A/B-test results.
+- Some projects from my work experience are listed below.
 
 **Practising my skills here:**
   
@@ -41,11 +41,17 @@ More about my work experience on <a href="https://career.habr.com/yulia-alexeych
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yulia-alexeychuk&layout=compact)](https://github.com/yulia-alexeychuk/yandex_practicum)
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yulia-alexeychuk&repo=work_projects)](https://github.com/yulia-alexeychuk/work_projects)
+
+| № |	Наименование проекта	| Описание	| Навыки и инструменты | 
+| - | --- | --- | --- | 
+| 1 | [Анализ причин оттока клиентов](https://github.com/yulia-alexeychuk/work_projects/tree/main/analysis_client_churn) | Анализируем причины оттока клиентов из облачного сервиса для автоматизации управления строительством и ремонтом Gectaro в сегменте B2B.  | pandas, matplotlib, seaborn, plotly, scipy, RF-анализ, критерий Шапиро-Уилка, критерий Манна-Уитни, критерий Хи-квадрат, V Крамера | 
+ 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yulia-alexeychuk&repo=yandex_practicum)](https://github.com/yulia-alexeychuk/yandex_practicum)
 
 | № |	Наименование проекта	| Описание	| Навыки и инструменты | 
 | - | --- | --- | --- | 
-| 1 | [Анализ пользовательского поведения в мобильном приложении](https://github.com/yulia-alexeychuk/yandex_practicum/tree/main/project_user_behavior) | Построена воронка продаж, изучен путь пользователей до покупки, проанализированы результаты A/B-теста введения новых шрифтов, проведено сравнение 2 контрольных групп между собой, чтобы убедиться в правильном разделении трафика, а затем сравнение с тестовой группой | pandas, matplotlib, scipy, plotly, критерий Шапиро-Уилка, критерий Манна-Уитни, z-тест, A/A/B-тест | 
-| 2 | [Выявление профилей потребления для интернет-магазина](https://github.com/yulia-alexeychuk/yandex_practicum/tree/main/e-commerce_project) | Определили дату последней покупки, сумму всех покупок и частоту заказов для каждого покупателя, провели RFM-анализ и разделили покупателей на сегменты, проверили корректность разделения, проанализировали особенности каждого сегмента: по категориям, сезонностям и среднему чеку. | pandas, seaborn, matplotlib, scipy, numpy, критерий Шапиро-Уилка, критерий Манна-Уитни, метод Холма, RFM-анализ | 
+| 1 | [Анализ пользовательского поведения в мобильном приложении](https://github.com/yulia-alexeychuk/yandex_practicum/tree/main/project_user_behavior) | Изучаем путь пользователей до покупки, анализируем результаты A/B-теста по введению нового шрифта | pandas, matplotlib, scipy, plotly, критерий Шапиро-Уилка, критерий Манна-Уитни, z-тест, A/A/B-тест | 
+| 2 | [Выявление профилей потребления для интернет-магазина](https://github.com/yulia-alexeychuk/yandex_practicum/tree/main/e-commerce_project) | Проводим RFM-анализ и делим покупателей на сегменты, анализируем особенности каждого сегмента: по категориям, сезонностям и среднему чеку. | pandas, seaborn, matplotlib, scipy, numpy, критерий Шапиро-Уилка, критерий Манна-Уитни, метод Холма, RFM-анализ | 
 
