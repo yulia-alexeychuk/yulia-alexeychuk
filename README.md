@@ -14,7 +14,7 @@
   
 <a href="https://leetcode.com/yulia-alexeychuk/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt=""></a>
 
-**My CV in pdf here**: 
+**Link to my CV in pdf**: 
 
 <a href="https://drive.google.com/uc?export=download&id=1L3zU3-8xXI9VR4Q1mM3Mfbs6gpCo6rp-"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" height="40"></a>
 
