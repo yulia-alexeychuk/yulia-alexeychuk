@@ -7,7 +7,8 @@
   - write SQL queries (PostgreSQL);
   - apply hypotheses statistical tests;
   - calculate and analyse Retention Rate, Churn Rate, Conversion Rate, LTV, CAC and ROI;
-  - analyse A/B-test results.
+  - analyse A/B-test results;
+  - create dashboards in Tableau.
 - Some projects from my work experience are listed below.
 
 **Practising my skills here:**
