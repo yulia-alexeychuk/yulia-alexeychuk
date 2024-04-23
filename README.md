@@ -49,7 +49,7 @@
 
 | № |	Наименование проекта	| Описание	| Навыки и инструменты | 
 | - | --- | --- | --- | 
-| 1 | [Анализ причин оттока клиентов](https://github.com/yulia-alexeychuk/work_projects/tree/main/analysis_client_churn) | Анализируем причины оттока клиентов из облачного сервиса для автоматизации управления строительством и ремонтом Gectaro в сегменте B2B.  | pandas, matplotlib, seaborn, plotly, scipy, RF-анализ, критерий Шапиро-Уилка, критерий Манна-Уитни, критерий Хи-квадрат, V Крамера | 
+| 1 | [Анализ причин оттока клиентов](https://github.com/yulia-alexeychuk/work_projects/tree/main/analysis_client_churn) | Анализируем причины оттока клиентов из облачного сервиса для автоматизации управления строительством и ремонтом в сегменте B2B.  | pandas, matplotlib, seaborn, plotly, scipy, RF-анализ, критерий Шапиро-Уилка, критерий Манна-Уитни, критерий Хи-квадрат, V Крамера | 
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yulia-alexeychuk&repo=yandex_practicum)](https://github.com/yulia-alexeychuk/yandex_practicum)
 
