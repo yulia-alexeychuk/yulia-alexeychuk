@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Data Analyst from Russia 🇷🇺</h3>
 
-- I have completed Data Analyst course from Yandex Practicum, where I learned how:
+- I have completed Data Analyst course from Yandex Practicum, where I learned how to:
   - carry out data analysis using Python, in particular: libraries Pandas, Matplotlib, Seaborn, Plotly, NumPy, SciPy;
   - write SQL queries (PostgreSQL);
   - apply hypotheses statistical tests;
