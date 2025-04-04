@@ -34,20 +34,20 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-<img src="https://pypi-camo.freetls.fastly.net/189c5d99fbda79b2218f2d4a4fe29415d32c8d8a/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d7761736b6f6d2f736561626f726e2f6d61737465722f646f632f5f7374617469632f6c6f676f2d776964652d6c6967687462672e737667" height="29">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" height="29">
+<img height="28" alt="seaborn-2" src="https://github.com/user-attachments/assets/1d9b1c09-9f54-42b1-9b4e-c8c326235043" />
+![Plotly Dash](https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-<img src="https://dbeaver.com/wp-content/themes/utouch/img/dbeaver_logo_bg.svg" height="28">
-
+<img height="28" alt="dbeaver-1" src="https://github.com/user-attachments/assets/5b95fc85-cf61-4ade-8594-e73af4e529f5" />
 
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-<img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" height="28">
-<img src="https://storage.yandexcloud.net/datalens-promo-prod/assets/logo-dark-new.svg" height="28">
+<img height="28" alt="tableau-1" src="https://github.com/user-attachments/assets/d4ebf61b-7ee6-4b5a-8707-c1212dde87f3" />
+<img height="28" alt="datalens-1" src="https://github.com/user-attachments/assets/e766f42e-fb37-4cd8-91ac-6f9a2889e84e" />
+
 
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yulia-alexeychuk&repo=work_projects)](https://github.com/yulia-alexeychuk/work_projects)
