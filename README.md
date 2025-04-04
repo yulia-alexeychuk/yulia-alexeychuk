@@ -40,11 +40,14 @@
 
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<img src="https://dbeaver.com/wp-content/themes/utouch/img/dbeaver_logo_bg.svg" height="28">
+
+
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
+<img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" height="28">
+<img src="https://storage.yandexcloud.net/datalens-promo-prod/assets/logo-dark-new.svg" height="28">
 
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yulia-alexeychuk&repo=work_projects)](https://github.com/yulia-alexeychuk/work_projects)
